@@ -25,6 +25,12 @@ https://docs.aws.amazon.com/ja_jp/powershell/latest/userguide/pstools-appendix-s
 - S3 フルアクセス
 - transcribe フルアクセス
 
+<img src="https://github.com/GeCS-Inc/amazon-transcribe-share/blob/main/screenshots/1.png?raw=true" width=600 />
+<img src="https://github.com/GeCS-Inc/amazon-transcribe-share/blob/main/screenshots/2.png?raw=true" width=600 />
+<img src="https://github.com/GeCS-Inc/amazon-transcribe-share/blob/main/screenshots/3.png?raw=true" width=600 />
+<img src="https://github.com/GeCS-Inc/amazon-transcribe-share/blob/main/screenshots/4.png?raw=true" width=600 />
+
+
 作成したアクセスキーを環境変数としてセットするために、次を実行します。
 
 ```
